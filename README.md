@@ -127,15 +127,6 @@ Designed and developed a production-ready responsive website for a Melbourne-bas
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jqama&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jqama&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
 
 ---
 
