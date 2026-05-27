@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jqama/jqama)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidqamar2017@gmail.com)
-[![Location](https://img.shields.io/badge/Melbourne%2C%20VIC-00A86B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 *8+ years delivering enterprise-grade digital solutions in finance, banking, and research.*
 
@@ -64,7 +63,7 @@ I thrive at the intersection of clean architecture, cloud-native engineering, an
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=dynamodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 
 ### AI / Data Engineering
@@ -109,10 +108,12 @@ Designed and developed a production-ready responsive website for a Melbourne-bas
 
 | Period | Role | Organisation |
 |---|---|---|
-| Nov 2024 – Aug 2025 | Cloud Platform Engineer (Intern) | Walter and Eliza Hall Institute |
+| Nov 2024 – Aug 2025 | Cloud Platform Engineer (Open Source Contributer and Intern) | Walter and Eliza Hall Institute of Medical Research |
 | Apr 2021 – Feb 2024 | Associate / Software Engineer III | JP Morgan Chase & Co. |
 | Apr 2019 – Apr 2021 | Manager / Software Developer | Reliance Industries – JIO |
-| Jul 2015 – Mar 2019 | Backend & Full Stack Engineer | Infosys · Dassault Systèmes · Viteos |
+| Oct 2018 – Mar 2019 | Senior Software Engineer | Viteos Capital Market |
+| Feb 2018 – Oct 2018 | Development Engineer | Dassault Systèmes |
+| Jul 2015 – Jan 2018 | Senior Software Engineer | Infosys Ltd. |
 
 ---
 
